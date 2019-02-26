@@ -49,3 +49,11 @@
     top: 1rem;
   }
 }
+
+@media (max-width:360px){
+  .wrapper h1{
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    font-variant:normal;
+  }
+}
