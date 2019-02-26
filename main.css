@@ -30,3 +30,21 @@
   padding: 1rem;
   font-size: 1.3rem;
 }
+
+@media (max-width: 873px){
+  .wrapper h1{
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width:563px){
+  .wrapper h1{
+    font-size: 1.3rem;
+    line-height: 2.3rem;
+    letter-spacing: -.003rem;
+  }
+  
+  .wrapper{
+    top: 3rem;
+  }
+}
